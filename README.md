@@ -1,6 +1,8 @@
-# LiGround
+# SpaceGround
 
+> Based on ![LiGround](https://github.com/LucyLMM/images/blob/main/LiGround_Screenshot.PNG)
 > A free, open-source and modern Chess Variant Analysis GUI for the 21st century
+> Modified for Banzai-Chess!
 
 ![LiGround](https://github.com/LucyLMM/images/blob/main/LiGround_Screenshot.PNG)
 <!-- <img src="./media/screenshots/liground-0.0.1.png" alt="LiGround screenshot" title="LiGround screenshot." /> -->
@@ -9,16 +11,8 @@
 
 ### Binaries
 
-We provide binary releases for the following plattforms:
-
-Operating System | Version
----              | ---
-Linux            | [**liground-0.4.0-linux.AppImage**](https://github.com/ml-research/liground/releases/download/0.4.0/liground-0.4.0-linux.AppImage)
-Windows          | [**liground-0.4.0-win.exe**](https://github.com/ml-research/liground/releases/download/0.4.0/liground-0.4.0-win.exe)                              
-Mac              | [**liground-0.4.0-mac.dmg**](https://github.com/ml-research/liground/releases/download/0.4.0/liground-0.4.0-mac.dmg)
-Mac              | [**liground-0.4.0-mac.zip**](https://github.com/ml-research/liground/releases/download/0.4.0/liground-0.4.0-mac.zip)
-
-The current _LiGround_ release and all its previous versions can also be found at [releases](https://github.com/ml-research/liground/releases).
+Work in progress: our plan is to provide engine binaries which supports Banzai-Chess variant.
+Standard binary releases can be found on LiGround repository.
 
 ## Supported Games
 
@@ -31,6 +25,7 @@ The current _LiGround_ release and all its previous versions can also be found a
 
 ### Chess Variants
 
+- BanzaiChess: **work in progress**
 - [Antichess](https://lichess.org/variant/antichess)
 - [Atomic](https://en.wikipedia.org/wiki/Atomic_chess)
 - [Chess960](https://en.wikipedia.org/wiki/Chess960)
